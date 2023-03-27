@@ -24,7 +24,7 @@ static char *fonts[] = { "monospace:size=12",
 
 static const char *colors[][3] = {
     /*               fg         bg         border   */
-    [SchemeNorm] = {"#928374", "#282828", "#ffffff"},
+    [SchemeNorm] = {"#928374", "#282828", "#928374"},
     [SchemeSel] = {"#458588", "#3c3836", "#ebdbb2"},
 };
 
